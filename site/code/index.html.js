@@ -131,6 +131,7 @@ A full implementation of the GraphQL specification that aims to maintain externa
   - [machinebox/graphql](https://github.com/machinebox/graphql): An elegant low-level HTTP client for GraphQL.
   - [samsarahq/thunder](https://github.com/samsarahq/thunder): A GraphQL implementation with easy schema building, live queries, and batching.
   - [appointy/jaal](https://github.com/appointy/jaal): Develop spec compliant GraphQL servers in Go.
+  - [zombiezen.com/go/graphql-server](https://github.com/zombiezen/graphql-server): GraphQL server library with a focus on simplicity and efficiency of the server endpoints
 
 ### Groovy
 
